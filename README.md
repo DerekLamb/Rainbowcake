@@ -1,8 +1,11 @@
 # Rainbowcake
 RGB split keyboard based on Lily58/Sofle and Corne keyboards
+*Currently on first revision*
+*I'd advise against ordering yet*
 
-Still in alpha*
-Following in the steps of a Sofle but with additional rgb keylighting
+Couldn't find the keyboard for me, so I made it.
 
+Based on Sofle/Lily58, with corne style key backlighting
 
-*pcbjust sent to fab (12/16) board likely not complete
+PCB ordered on 12/17 from JLCPCB.com 
+  *Revisions likely to come
