@@ -1,2 +1,2 @@
 # Rainbowcake
-Split keyboard based on Lily58/Sofle and Corne keyboards
+RGB split keyboard based on Lily58/Sofle and Corne keyboards
