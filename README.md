@@ -9,8 +9,8 @@ Based on Sofle/Lily58, with Corne style key backlighting
 
 Designed to use screws and locknuts to tent. 
 
-* ~~PCB ordered on 12/17 from JLCPCB.com
-* ~~Partially Assembled
-* ~~Flashed QMK
+* ~~PCB ordered on 12/17 from JLCPCB.com~~
+* ~~Partially Assembled~~
+* ~~Flashed QMK~~
 * Need to make changes to layout
 
